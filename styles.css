@@ -1,0 +1,15 @@
+body{
+    margin: 50px;
+}
+.titulo, .contienetitulo{
+    text-align: center;
+}
+.contenidolectura{
+    text-indent: 20px;
+    text-align: justify; 
+}
+img{
+    margin-left: auto; 
+    margin-right: auto;
+    display: block;
+}
